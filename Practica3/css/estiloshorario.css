@@ -1,0 +1,97 @@
+table {
+	width: 100%;
+	border-collapse: collapse; /* para evitar border separados en las celdas */
+}
+th {
+	font-size: 25px;
+}
+@font-face {
+	font-family: another ;
+	src:url(AnotherDayV2.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: adelia;
+	src:url(ADELIA.otf) format('truetype');
+}
+
+@font-face {
+	font-family: bella;
+	src:url(Pokemon.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: children;
+	src:url(Children.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: madena;
+	src:url(Regular.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: demo;
+	src:url(Demo.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: parlling;
+	src:url(Parlling.otf) format('truetype');
+}
+
+td {
+	border: 2px solid black;
+	text-align: center;
+	background-color: grey;
+	color: white;
+}
+h1 {
+	text-align: center;
+}
+
+.sistemas{
+	background-color: red;
+	font-family: another;
+	font-size: 25px;
+	color: yellow;
+}
+.formacion{
+	background-color: purple;
+	font-family: adelia;
+	font-size: 25px;
+	color: green;
+}
+.redes{
+	background-color: yellow;
+	font-family: bella;
+	font-size: 25px;
+	color: black;
+}
+.datos{
+	background-color: blue;
+	font-family: children;
+	font-size: 25px;
+	color: #f54522;
+}
+.lenguaje{
+	background-color: green;
+	font-family: madena;
+	font-size: 25px;
+	color: blue;
+}
+.hardware{
+	background-color: black;
+	font-family: demo;
+	font-size: 25px;
+	color: white;
+}
+.recreo{
+	background-color: #89d3d9;
+	font-family: parlling;
+	font-size: 25px;
+	color:#8f1783;
+}
+.horario{
+	font-size: 20px;
+}
