@@ -1,0 +1,106 @@
+header {
+	background-image: url(../img/bg.png);
+	color: #FFFFFF;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 1%;
+}
+#banner {
+	border: 8px solid white;
+}
+nav {
+	margin-right: 350px;
+	float: right;
+	padding-top: 25px;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+nav ul li a {
+	color: #FFFFFF;
+	padding-left: 20px;
+}
+
+#principal {
+	background-color: #acada8;
+	float: left;
+}
+
+.articulos {
+	float: left;
+	width: 180px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.titulo {
+	color: #c94b0c;
+}
+
+section article a {
+	color: #c94b0c;
+}
+#quinto {
+	float: left;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+#fernand {
+	float: right;
+	padding-left: 25px;
+
+}
+#titulo2 {
+	color: #bf1171;
+}
+#catpaw {
+	float: right;
+	position: relative;
+	bottom: 100px;
+}
+footer {
+	float: left;
+	clear: both;
+	background-image: url(../img/footer.png);
+	width: 100%;
+	background-repeat: repeat-x;
+}
+
+#hello {
+	float: left;
+	padding-left: 5%;
+	color: #FFFFFF;
+}
+#top{
+	margin-top:7%;
+}
+#bla {
+	float: left;
+	padding-left: 5%;
+	color: #FFFFFF;
+}
+
+#purr {
+	float: left;
+	padding-left: 5%;
+	color: #FFFFFF;
+}
+
+#valid {
+	float: left;
+	padding-left: 20%;
+	margin-top: 8%;
+	color: #FFFFFF;
+}
+
+#copy {
+	float: left;
+	padding-left: 20%;
+	margin-top: 8%;
+	color: #FFFFFF;
+
+}
+
